@@ -4,12 +4,7 @@ import JobOffer from "./job-offer.component";
 import { JobOfferProps, jobOffers } from "./job-offers";
 
 const JobOffers = () => {
-  const [offers, setOffers] = useState([
-    ...jobOffers,
-    ...jobOffers,
-    ...jobOffers,
-    ...jobOffers,
-  ]);
+  const [offers, setOffers] = useState(jobOffers);
   const [width] = useWindowSize();
   useEffect(() => {
     if (width < 768) {
