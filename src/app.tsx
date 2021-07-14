@@ -16,7 +16,7 @@ function App() {
       {!loading && (
         <div>
           <Banner />
-          <div className="p-4 md:p-20">
+          <div className="p-12 md:p-20">
             <JobOffers />
             <Companies />
           </div>
