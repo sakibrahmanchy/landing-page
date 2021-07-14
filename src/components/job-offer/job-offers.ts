@@ -23,7 +23,7 @@ export const jobOffers: JobOfferProps[] = [
     {
         position: "Junior Project Manager",
         companyName: "Frontkom",
-        postTime: "2 hours ago",
+        postTime: "3 hours ago",
         location: "Lubin, Polska",
         description: "I am currently looking for a java developer, Project for Public Sector Location: Wroclaw(during the pandemic remote work).",
         link: "/1",
@@ -33,7 +33,7 @@ export const jobOffers: JobOfferProps[] = [
     {
         position: "Junior Java Developer",
         companyName: "PickSaas",
-        postTime: "2 hours ago",
+        postTime: "1 day ago",
         location: "Wrclaw, Polska",
         description: "I am currently looking for a java developer, Project for Public Sector Location: Wroclaw(during the pandemic remote work).",
         link: "/1",
