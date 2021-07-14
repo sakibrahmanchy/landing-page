@@ -31,7 +31,7 @@ const JobOffer = ({
       <div className="pt-2">{description}</div>
       <div className="flex justify-between">
         <span>{pay}</span>
-        <a href={link} className="shadow-blue opacity-90 bg-blue-500 text-white font-bold rounded-sm w-max px-2 py-2 icon-button">
+        <a href={link} className="ml-8 shadow-blue opacity-90 bg-blue-500 text-white font-bold rounded-sm w-max px-2 py-2 icon-button">
           &#8250;
         </a>
       </div>

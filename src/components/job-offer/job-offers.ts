@@ -28,6 +28,7 @@ export const jobOffers: JobOfferProps[] = [
         description: "I am currently looking for a java developer, Project for Public Sector Location: Wroclaw(during the pandemic remote work).",
         link: "/1",
         righIndicator: false,
+        pay: "Learning & Growth awaits!"
     },
     {
         position: "Junior Java Developer",
